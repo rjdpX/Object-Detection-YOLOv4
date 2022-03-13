@@ -10,6 +10,11 @@ Why it is named as such?
 
 We'll be using the specific **YoloV4-csp-640X640** algorithm, which is considered as one of the fastest and the most accurate object detection existing till present.
 
+<!-- ![Screenshot](https://github.com/rjdpX/Object-Detection-YOLOv4/blob/master/MS_COCO_Object_Detection.png) -->
+
+<img src="https://github.com/rjdpX/Object-Detection-YOLOv4/blob/master/MS_COCO_Object_Detection.png" width="640" height="480">
+
+Feel free to check the implementation [here](https://github.com/rjdpX/Object-Detection-YOLOv4/blob/master/YoloV4_webcam.ipynb).
 
 ## Authors
 Connect with Rajdeep:
